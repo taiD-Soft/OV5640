@@ -1,0 +1,117 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/taivv/.arduino15/packages/esp32/hardware/esp32/1.0.6/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/taivv/.arduino15/packages/esp32/hardware/esp32/1.0.6/variants/esp32"
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/main.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/cam_hal.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/esp_camera.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/esp_jpg_decode.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/gc0308.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/gc032a.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/gc2145.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/jpge.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/ll_cam.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/nt99141.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/ov2640.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/ov3660.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/ov5640.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/ov7670.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/ov7725.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/sccb.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/sensor.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/to_bmp.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/to_jpg.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/xclk.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/taivv/Documents/TESTOV5640/build/sketch/src/yuv.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

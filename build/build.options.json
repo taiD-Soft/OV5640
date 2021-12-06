@@ -1,0 +1,12 @@
+{
+  "additionalFiles": "../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..,../..",
+  "builtInLibrariesFolders": "/home/taivv/Documents/arduino-1.8.16-linux64/arduino-1.8.16/libraries",
+  "builtInToolsFolders": "/home/taivv/Documents/arduino-1.8.16-linux64/arduino-1.8.16/tools-builder,/home/taivv/Documents/arduino-1.8.16-linux64/arduino-1.8.16/hardware/tools/avr,/home/taivv/.arduino15/packages",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "build.path=/home/taivv/Documents/TESTOV5640/build,build.warn_data_percentage=75,runtime.tools.mkspiffs.path=/home/taivv/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.mkspiffs-0.2.3.path=/home/taivv/.arduino15/packages/esp32/tools/mkspiffs/0.2.3,runtime.tools.esptool_py.path=/home/taivv/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.esptool_py-3.0.0.path=/home/taivv/.arduino15/packages/esp32/tools/esptool_py/3.0.0,runtime.tools.xtensa-esp32-elf-gcc.path=/home/taivv/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0,runtime.tools.xtensa-esp32-elf-gcc-1.22.0-97-gc752ad5-5.2.0.path=/home/taivv/.arduino15/packages/esp32/tools/xtensa-esp32-elf-gcc/1.22.0-97-gc752ad5-5.2.0",
+  "fqbn": "esp32:esp32:esp32wrover:PartitionScheme=huge_app,FlashMode=qio,FlashFreq=80,UploadSpeed=921600,DebugLevel=verbose",
+  "hardwareFolders": "/home/taivv/Documents/arduino-1.8.16-linux64/arduino-1.8.16/hardware,/home/taivv/.arduino15/packages",
+  "otherLibrariesFolders": "/home/taivv/Arduino/libraries",
+  "runtime.ide.version": "10816",
+  "sketchLocation": "/home/taivv/Documents/TESTOV5640/main.ino"
+}
